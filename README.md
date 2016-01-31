@@ -1,0 +1,1 @@
+Source files for [neilcford.uk](http://neilcford.uk). Generated using [Pelican](http://docs.getpelican.com/en/3.6.3/) static site generator and the [crowsfoot](https://github.com/porterjamesj/crowsfoot) theme.
