@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/neilcford
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://neilcford.co.uk
+  * I am neilcford (https://keybase.io/neilcford) on keybase.
+  * I have a public key with fingerprint A775 6E34 C500 7526 D2E4  D96F 1C2D EC02 4EC6 535A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "a7756e34c5007526d2e4d96f1c2dec024ec6535a",
+            "host": "keybase.io",
+            "key_id": "1C2DEC024EC6535A",
+            "uid": "7d56fd51416f99c89636d677126eaf00",
+            "username": "neilcford"
+        },
+        "merkle_root": {
+            "ctime": 1421089968,
+            "hash": "0685ab3d4356e8a0b85418d768e1aae09f220d0385adce23e63bd571e388cbbf377a7a017d248e1c66a8ba245ac97be84685e4c47c8be13090a8fcb7dc099fc9",
+            "seqno": 128597
+        },
+        "service": {
+            "hostname": "neilcford.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421090011,
+    "expire_in": 157680000,
+    "prev": "f0cc8c04853498b4145d305170681088cd94cf80cb2e3a01cbe210ceef98df63",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkntQFVUcx3kIyp2cASEEZIouMjAMwb4fBAwOr8iEjBpmCKTds2dhL3D3tvde
+noI8mhCCRA3GMkNkmLQZIUXBAbQHEyhaSohDIoiYoxJlOpUJSZ1laLLOX3v29/l9
+z+/7PadprbODwdH/+XmnlKG0DMfzd0WH1074T5YZRVUqMUaWGUG+As02/cssFEBj
+pDEPloiCFYYraoBZlWC4yRqwwoQZC6FmVVQzorBwNpw0lofpuN4sK+YcqFk0Rdcy
+CixLM5CkAI1hLE0wEgEpiWdkHBASBBhBQcDQJC0gyVzVavvPqcZlzWxFQn/xOCI+
+IQ7xCXE6vwnV7MsFVqIZWaJxCmdkngccz5CMxLAsTjBQkDFMB61QW7Fkhko+kFVN
+0gcugFpePszWVHXZNbApOoNTBI5xPM9waCTBmqtbZDhaEEmJIpEXTsBEjqZwTmIZ
+DuKCADFeJghMwkhESQASJGRIUaJZHJIcB0RRJllWYAUMZyWCQi2AYQROFAiKFgDP
+ipCjkD6kAMUCToQ4ifGYwMlAZCWA8bwMeOTBCt8yq2g4gqN5tlzfa4UKgPrcem7/
+txcO1HB7HuqzaKpNBWo+KubabJZI3betxKLDx4qgmL2iky0qZgld3JM3iyP0yUx4
+DMPxMCMstigazFZ0gkYRYGjp58BCpCljAHAAoziapHhOpHCKlkiMxlkUIUqVAxJP
+AZnDgEhAEiUCRIiUAYQyz0kyQ/7rlEFzCjlI0qrkmAWbXYPG8jon/1UOjgYHVxcn
+/ek6GNzc/3nPhmvuDof63339SFVA6ujZHeLIumd7u8TxLPrGg/tHdln2lr6cbjrX
+nDqT3irOesafKiDvlDVGXWqLaj82Y/JwzDzeUzAS0txX4dqTvDnR+vvnbfbdk1Ee
+g7X24dqE0tThRzXqycUgn6Kb7zgHvpC28Z62evrF5IinviCvuH7ru/WW1Ohtm50z
+uW3vPHD5a99C15SZHe93+6y/FjqXvmfbr2fDDsdcrZj9M+/hOmrv6YmpzEgXeHUp
+6YEVum/sdes2kCev7+97IyrT8Nnw7b9Aa/t8S1JH/Y0hl7uxB3J9PYKrGzJT5rH4
+5BCamL/4SdGuyvWJ+/ZN1A6O3zdV9k7XxAy8PTN96EefLdEbqkI/CnzVb/ZcSv8H
+3jOnpdE205atMftP+MjdQZGezlml20ZX28e+v3j5VJ199ODRhqafeoifk653Dj56
+GFIb25GVEWytWTuQ1Em4rRnGyhZ+MaS5vbImecxruqra9fHCmcSvLEVZfWBhSfty
+8rBv0W+hB/94fDyuK8PgQgVOtb4Z9VJ5st+QIP3g1Zh99I6TzXOkuq45oGcs59Pz
+eT3sheLKhLbg8Q3RKRM7vbXt6sTihxGNpRUfjz89MyTu3CSU9xRH19atGoj4pv69
++ksVS0vPNXtsvsW3tLecyY+9t3jzgmviFa53qn+u+ZmRPLUpLMjP04u2Gxuax0Nr
+fL673RGze25P198=
+=v34q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/neilcford
+
+==================================================================
