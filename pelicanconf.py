@@ -14,7 +14,7 @@ STATIC_PATHS = ['images', 'static', 'keybase.txt']
 
 DEFAULT_LANG = 'en'
 
-THEME = '/Users/neil/neilcford.pelican/crowsfoot'
+THEME = '/Users/neil/git/neilcford.pelican/crowsfoot'
 
 PROFILE_IMAGE_URL = 'http://neilcford.uk/images/Neil_crop160px.jpg'
 
